@@ -1,5 +1,7 @@
 /*
-!/src
 !/.github
+!/src
 !build.gradle.kts
 !.gitignore
+!gradlew
+!gradlew.bat
